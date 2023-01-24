@@ -1,2 +1,5 @@
-# rust_chapter_11
-Rust Chapter XI
+# Rust Chapter XI
+
+### Reference
+
+https://doc.rust-lang.org/stable/book/ch11-00-testing.html
